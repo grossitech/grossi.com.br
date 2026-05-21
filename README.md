@@ -4,7 +4,7 @@ Repositório do site estático hospedado via **GitHub Pages** e acessível pelo 
 
 ## Sobre
 
-Página estática servida diretamente pelo GitHub Pages, com domínio próprio configurado via Registro.br e HTTPS provido automaticamente pelo GitHub.
+Página estacionária servida diretamente pelo GitHub Pages.
 
 ## Stack
 
