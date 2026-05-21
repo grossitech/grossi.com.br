@@ -17,5 +17,7 @@ Página estática servida diretamente pelo GitHub Pages, com domínio próprio c
 
 ```
 grossi.com.br/
-└── index.html
+├── index.html   # página principal
+├── CNAME        # domínio customizado lido pelo GitHub Pages
+└── README.md    # este arquivo
 ```
